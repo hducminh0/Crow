@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/all_dead"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="all dead"
+                android:onClick="all_dead"/>
+            <Button
+                android:id="@+id/bockbock"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="bock bock"
+                android:onClick="bockbock"/>
+            <Button
+                android:id="@+id/brutal"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="brutal"
+                android:onClick="brutalk"/>
+            <Button
+                android:id="@+id/charge"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="charge"
+                android:onClick="charge"/>
+            <Button
+                android:id="@+id/crashburn"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="crash burn"
+                android:onClick="crash_burn"/>
+            <Button
+                android:id="@+id/cricket"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="cricket"
+                android:onClick="cricket"/>
+            <Button
+                android:id="@+id/crowd1"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="crowd 1"
+                android:onClick="crowd1"/>
+            <Button
+                android:id="@+id/crowd2"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="crowd 2"
+                android:onClick="crowd2"/>
+            <Button
+                android:id="@+id/crybaby"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="Cry baby"
+                android:onClick="crybaby"/>
+            <Button
+                android:id="@+id/disastah"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="disastah"
+                android:onClick="disastah"/>
+            <Button
+                android:id="@+id/duiyoune"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="duiyou ne"
+                android:onClick="duiyoune"/>
+            <Button
+                android:id="@+id/echo"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="echo slama jama"/>
+            <Button
+                android:id="@+id/ez"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="easiest money"/>
+            <Button
+                android:id="@+id/kiss"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="kiss"/>
+            <Button
+                android:id="@+id/laka"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="lakama"/>
+            <Button
+                android:id="@+id/liu"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="liu liu liu"/>
+            <Button
+                android:id="@+id/nextlevel"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="next level play"/>
+            <Button
+                android:id="@+id/niqi"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="ni qi bu qi"/>
+            <Button
+                android:id="@+id/oh_my_lord"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="Oh my lord"
+                android:onClick="oh_my_lord"/>
+            <Button
+                android:id="@+id/oy"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="oy oy oy"/>
+            <Button
+                android:id="@+id/party_horn"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="party horn"
+                android:onClick="party_horn"/>
+            <Button
+                android:id="@+id/playtowin"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="playing to win"/>
+            <Button
+                android:id="@+id/sad_bone"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="sad bone"
+                android:onClick="sad_bone"/>
+            <Button
+                android:id="@+id/snore"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="snore"
+                android:onClick="snore"/>
+            <Button
+                android:id="@+id/that_was_questionable"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="that was questionable"
+                android:onClick="that_was_questionable"/>
+            <Button
+                android:id="@+id/happened"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="what just happened"/>
+            <Button
+                android:id="@+id/youre_a_hero"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_width="800px"
+                android:layout_height="wrap_content"
+                android:text="You're a hero"
+                android:onClick="youre_a_hero"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</ScrollView>
